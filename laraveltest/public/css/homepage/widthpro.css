@@ -1,0 +1,553 @@
+@media only screen and (min-width : 788px) and (max-width :1024px){
+.amen{
+margin-top: ;
+}
+
+}
+    #burger
+    {
+        border:1px solid black;
+        color:white;
+        width:100px;
+        padding:6px;
+        text-align: center;
+        margin-left: 225px;
+        float: left;
+        height: 32px;
+        text-align: center;
+        padding-top: 15px;
+
+
+        background-color:#006064;
+        font-size:1.1em;
+    }
+#burgertoggle {
+    background-color: #333333;
+    margin-top: 54px;
+    width: 250px;
+    text-align: center;
+}
+#burgertoggle a{
+    margin-left: 90px;
+    text-align: center;
+}
+#mena1
+
+
+
+
+
+#slide1h1{
+    margin-left: 210px;
+}
+.sliderp{
+    margin-left: 255px;
+}
+#slide1but1{
+    margin-left: 295px;
+}
+#slide1but2{
+    margin-left: 490px;
+}
+
+
+
+
+#slide2h1{
+    margin-left: 245px;
+    margin-top: 10px;
+}
+
+#slide2rpchange{
+    margin-top: 25px;
+    margin-left: 260px;
+}
+#slide2but1{
+    margin-left: 405px;
+}
+
+
+#slide3h1{
+    margin-left: 200px;
+}
+#slide3but1{
+    margin-left: 310px;
+}
+#slide3but2{
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+
+
+#About{
+    margin-top: 20px;
+}
+#About1,#About2,#About3,#About4{
+    width:100%;
+
+
+}
+#About3{
+    float: none;
+}
+#About a{
+    margin-left: 42.5%;
+}
+#About p{
+    margin-right: 8%;
+}
+.img-about{
+    margin-left: 42.5%;
+}
+
+
+
+#sp1{
+    width: 50%;
+    margin-left:  350px;
+}
+#sp2{
+    width:40%;
+    margin-left:  350px;
+}
+#sp3{
+    width: 40%;
+    margin-left: 350px;
+}
+#sp4{
+    width: 40%;
+    margin-left: 350px;
+}
+#sp5{
+    width: 40%;
+    margin-left: 350px;
+}
+#sp6{
+    width: 50%;
+    margin-left: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+.left-link{
+    font-size: 18px;
+    margin-top: 0px;
+
+}
+    .right-link{
+        font-size: 18px;
+        margin-top: 0px;
+
+    }
+    .ttpb{
+        margin-left: 0px;
+        margin-right: 95px;
+        text-align: ;
+        float: left;
+        font-size: 12px;
+    }
+.display{
+    width:245px;
+    height: 150px;
+}
+#prt1{
+    width:275px;
+    height: 200px;
+    margin-left: 17.5%;
+}
+#prt2 {
+    width:275px;
+    height: 200px;
+    margin-left: 17.5%;
+    margin-top: 10px;
+}
+#prt3{
+    width:275px;
+    height: 200px;
+    margin-left: 17.5%;
+    margin-top: 10px;
+}
+#prt4 {
+    width: 275px;
+    height: 200px;
+    margin-left: 17.5%;
+    margin-top: 10px;
+}
+#prt5{
+    width:275px;
+    height: 200px;
+    margin-left: 17.5%;
+    margin-top: 10px;
+
+}
+    #prt6{
+        width:275px;
+        height: 200px;
+        margin-left: 17.5%;
+        margin-top: 10px;
+    }
+
+
+#but-port{
+    margin-left:190px;
+}
+.picture1{
+    margin-left: 180px;
+}
+
+.activeprtx4pb{
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+.h1-zagolovok{
+    font-size: 38px;
+}
+div#features1{
+    width: 50%;
+    margin-left: 340px;
+}
+
+div#features2{
+    width: 50%;
+    margin-left: 340px;
+
+}
+
+div#features3 {
+    width: 50%;
+    margin-left: 340px;
+}
+
+
+
+
+div#features4{
+    width: 50%;
+    margin-left: 340px;
+}
+
+div#features5{
+    width: 50%;
+    margin-left: 340px;
+}
+
+div#features6{
+    width: 50%;
+    margin-left: 340px;
+}
+
+
+
+
+#broblem{
+    width: 100%;
+}
+#all-statistic{
+    overflow: hidden;
+}
+    div#all-statistic{
+        background-image: url("img/logotup/2.jpg");
+        width:30%;
+        margin-left: 35%;
+        height:1200px;
+        display: block;
+        color: #fff;
+        overflow: hidden;
+    }
+    #all-statistic #hr1,#hr2{
+        width:25px;
+        margin-left: 23px;
+        margin-bottom: 15px;
+
+    }
+    #all-statistic h3{
+        font-size: 45px;
+        margin-bottom: 15px;
+        font-family: Noto Sans, sans-serif;
+
+    }
+    #all-statistic small{
+        margin-left: 5px;
+
+    }
+    div#all-statistic{
+        overflow: hidden;
+
+    }
+    div#stat1,div#stat2,div#stat3,div#stat4{
+        float: left;
+        width: 100%;
+        margin-left: 110px;
+    }
+    div#stat1{
+        text-align: left;
+
+
+        margin-top: 50px;
+    }
+
+    div#stat2{
+        text-align: left;
+
+
+        margin-top: 50px;
+    }
+
+    div#stat3{
+        text-align: left;
+        margin-left: 85px;
+        margin-top: 50px;
+    }
+
+    div#stat4{
+        text-align: left;
+        margin-left: 75px;
+        margin-top: 50px;
+    }
+    .stat-img{
+        width: 50px;
+        height: 50px;
+        margin-left: 15px;
+        margin-top: 25px;
+        margin-bottom: 0px;
+    }
+
+
+    #stat-sm3,#stat-sm4{
+        margin-left: 0px;
+    }
+    #p4{
+        margin-left: 52px;
+    }
+    #p3{
+        margin-left: 40px;
+    }
+
+    #h4p{
+        margin-left: 25px;
+    }
+    #h3p{
+        margin-left: 28px;
+    }
+
+
+    .small-all{
+        font-size: 15px;
+    }
+    #hr3{
+        margin-left: 50px ;
+        width: 25px;
+    }
+    #hr4{
+        margin-left: 60px;
+        width: 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+div#team1{
+    margin-left: 345px;
+    width: 300px;
+    height: 300px;
+    background: url("img/team/team-05.jpg") no-repeat ;
+    background-size: cover;
+    margin-top: 10px;
+}
+div#team2{
+    margin-left: 345px;
+    width: 300px;
+    height: 300px;
+    background: url("img/team/team-06.jpg") no-repeat ;
+    background-size: cover;
+    margin-top: 10px;
+}
+div#team3{
+    margin-left: 345px;
+    width: 300px;
+    height: 300px;
+    background: url("img/team/team-07.jpg") no-repeat ;
+    background-size: cover;
+    margin-top: 10px;
+}
+div#team1-all{
+    width: 300px;
+    height: 300px;
+}
+    div#team2-all{
+        width: 300px;
+        height: 300px;
+    }
+    div#team3-all{
+        width: 300px;
+        height: 300px;
+    }
+
+
+
+
+
+div#pricing1{
+    margin-left: 380px;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 200px;
+    height:300px;
+}
+div#pricing2{
+    margin-left: 382px;
+    margin-top: 10px;
+    width: 200px;
+    height:300px;
+}
+div#pricing3{
+    margin-left: 380px;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 200px;
+    height:300px;
+}
+
+
+
+.slider2img{
+    margin-left: 45%;
+}
+.fpt{
+    margin-left: 45%;
+}
+
+
+
+
+#Portfolio{
+    margin-left: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#form-marg{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+.a-last{
+    margin-left: 25px;
+    float: left;
+}
+
+#cont-a{
+    margin-left: 40px;
+    margin-right: 0px;
+
+}
+#footer1{
+    height: 900px;
+}
+#div1{
+    width: 25%;
+    margin-left: 380px;
+}
+    #div2{
+        width: 25%;
+        margin-left: 460px;
+    }
+    #div3{
+        width: 50%;
+        margin-left: 360px;
+    }
+    #div4{
+        width: 50%;
+        margin-left: 360px;
+    }
+    .b-foot{
+        margin-left: 50px;
+    }
+    #link{
+        margin-left: 0;
+    }
+    #gallery{
+        margin-left:86px;
+    }
+    #formad{
+        margin-left: 280px;
+        width: 450px;
+    }
+    #formh3{
+        margin-left: 270px;
+
+    }
+    .form-control{
+        margin-left: 270px;
+    }
+    #name{
+
+    }
+    #butpredlast{
+        margin-left: 440px;
+    }
+    #contacts2{
+        margin-right: 100px;
+        margin-left: 0;
+    }
+
+#mobile-burger2{
+    background-color: #1D1D1D;
+    text-align: center;
+    height: 400px;
+    display: block;
+}
+.mobile{
+    font-size: 23px;
+    color: #5A51FF;
+    height: 400px;
+}
+#mobile-burger2 a{
+    line-height: 50px;
+}
+#logomenu{
+    margin-top: 10px;
+}
+
+

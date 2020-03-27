@@ -1,0 +1,80 @@
+#our-team-opacity1{
+    color: white;
+    opacity: 0;
+    width: 100%;
+    height: 300px;
+    margin: 0; /*убирает оранжевые поля*/
+    padding: 0; /*убирает зеленые поля*/
+    box-sizing: border-box; /*убирает зеленые поля и рамку*/
+}
+#our-team-opacity2{
+    color: white;
+    opacity: 0;
+    width: 100%;
+    height: 300px;
+}
+#our-team-opacity3{
+    color: white;
+    opacity: 0;
+    width: 100%;
+    height: 300px;
+}
+
+div#our-team1:hover div#our-team-opacity1 {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: 1s;
+}
+div#our-team2:hover div#our-team-opacity2 {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: 1s;
+}
+div#our-team3:hover div#our-team-opacity3 {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: 1s;
+}
+div#all-our-team .our-team-facebook{
+    color: white;
+    font-size: 26px;
+}
+div#all-our-team .our-team-twitter{
+    color: white;
+    font-size: 26px;
+}
+div#all-our-team .our-team-instagram{
+    color: white;
+    font-size: 26px;
+}
+
+div#all-our-team .our-team-facebook:hover{
+    color: #3b5998;
+
+}
+div#all-our-team .our-team-twitter:hover{
+    color: #00aced;
+
+}
+div#all-our-team .our-team-instagram:hover{
+    color: #EA586F;
+}
+
+
+
+#contacts_facebook{
+    color: #1D1D1D;
+}
+#contacts_twitter{
+    color: #1D1D1D;
+
+}
+#contacts_instagram{
+    color: #1D1D1D;
+}
+#contacts_linkedin  {
+    color: #1D1D1D;
+}

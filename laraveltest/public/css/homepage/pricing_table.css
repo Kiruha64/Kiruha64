@@ -1,0 +1,40 @@
+#pricing_1table{
+    border: 2px solid black;
+}
+#pricing_2table{
+    border: 1px solid #EA586F;
+    border-radius: 6%;
+    background-color: #EA586F ;
+    color: white;
+}
+#pricing_2table p{
+    color: white;
+}
+#pricing_3table{
+    border: 2px solid black;
+}
+
+.pricing_p{
+    color: black;
+}
+.pricing_h3{
+    font-weight: 100;
+}
+#pricing_btn2{
+    background-color: white;
+    color: #EA586F;
+    border: 1px solid white;
+}
+.pricing_btn{
+    border: 1px solid #EA586F;
+    background: none;
+    color: #EA586F;
+    padding: 4px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.pricing_btn:hover{
+    border: 1px solid #EA586F;
+    color: white;
+    background-color:#EA586F;
+}

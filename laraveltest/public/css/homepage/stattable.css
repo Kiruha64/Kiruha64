@@ -1,0 +1,10 @@
+#stat_table{
+    background: url(img/logotup/2.jpg);
+    color: white;
+    width: 100%
+}
+
+.statistic_img{
+    height:50px;
+    width: 50px;
+}

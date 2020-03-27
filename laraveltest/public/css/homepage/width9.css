@@ -1,0 +1,303 @@
+@media only screen and (min-width : 2560px) {
+
+    .amen {
+        text-align: center;
+
+    }
+    .menu {
+        text-align: center;
+
+    }
+    .menu .amen {
+        margin-top: 0px;
+    }
+    #mena1{
+        margin-left: 200px;
+    }
+    #mena2{
+        margin-left: 200px;
+    }
+    #mena3{
+        margin-left: 200px;
+    }
+    #mena4{
+        margin-left: 200px;
+    }
+    #mena5{
+        margin-left: 200px;
+    }
+    #mena6{
+        margin-left: 200px;
+    }
+    #mena7{
+        margin-left: 200px;
+    }
+    #mena8{
+        margin-left: 200px;
+    }
+
+
+    #menua {
+        margin-left: 250px;
+    }
+
+    #slide1h1 {
+        left:23%;
+        margin-top: 140px;
+    }
+
+    .sliderp {
+        left:23%;
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+
+    #slide1but1 {
+        left:23%;
+        margin-bottom: 150px;
+        margin-top: 0;
+    }
+
+    #slide1but2 {
+        left:24%;
+        margin-bottom: 150px;
+    }
+
+    #slide2h1 {
+        left:23%;
+        margin-top: 100px;
+    }
+
+    #slide2rpchange {
+        margin-top: 20px;
+        left:23.4%;
+    }
+
+    #slide2but1 {
+        margin-bottom: 50px;
+        left:23.5%;
+    }
+
+    #slide3h1 {
+        left:23%;
+        margin-top: 140px;
+
+    }
+
+    #slide3but1 {
+        margin-bottom: 50px;
+        margin-top: 0;
+        left:23%;
+    }
+
+    #slide3but2 {
+        left:24%;
+        margin-bottom: 50px;
+        margin-top: 0;
+    }
+
+    #About {
+        margin-top: 30px;
+    }
+
+    #About3 {
+        float: none;
+    }
+
+    #About a {
+        margin-left: 360px;
+    }
+
+    #About p {
+        margin-left: 285px;
+    }
+
+    .img-about {
+        margin-left: 360px;
+    }
+
+    #sp1 {
+        width: 19%;
+        margin-left: 315px;
+    }
+
+    #sp2 {
+        width: 19%;
+        margin-left: 215px;
+    }
+
+    #sp3 {
+        width: 17%;
+        margin-left: 225px;
+    }
+
+    #sp4 {
+        width: 18%;
+        margin-left: 310px;
+    }
+
+    #sp5 {
+        width: 19%;
+        margin-left: 245px;
+    }
+
+    #sp6 {
+        width: 19%;
+        margin-left: 225px;
+    }
+
+    #prt1 {
+        margin-left: 0;
+    }
+
+    #prt3 {
+        margin-left: 0px;
+        margin-right: 0;
+    }
+
+    #prt4 {
+        margin-right: 0;
+        margin-left: 0px;
+    }
+
+    #prt5 {
+        margin-left: 0px;
+    }
+
+    #prt6 {
+        margin-left: 0px;
+    }
+
+    #but-port {
+        margin-left: 960px;
+    }
+
+    .activeprtx4pb {
+        margin-left: 0px;
+    }
+
+    .h1-zagolovok {
+        font-size: 38px;
+    }
+
+    div#features1 {
+        width: 26%;
+        margin-left: 445px;
+    }
+
+    div#features2 {
+        width: 26%;
+
+    }
+
+    div#features3 {
+        width: 26%;
+    }
+
+    div#features4 {
+        width: 26%;
+        margin-left: 445px;
+    }
+
+    div#features5 {
+        width: 26%;
+    }
+
+    div#features6 {
+        width: 26%;
+    }
+
+    div#stat1 {
+        margin-left: 450px;
+    }
+
+    div#team1 {
+        margin-left: 360px;
+    }
+
+    div#team2 {
+        margin-left: 360px;
+    }
+
+    div#team3 {
+        margin-left: 360px;
+    }
+
+    div#pricing1 {
+        margin-left: 390px;
+    }
+
+    div#pricing2 {
+        margin-left: 390px;
+    }
+
+    div#pricing3 {
+        margin-left: 390px;
+    }
+
+    .slider2img {
+        margin-left: 48%;
+    }
+
+    .fpt {
+        margin-left: 47.5%;
+    }
+
+    #div2 {
+        margin-left: 420px;
+    }
+
+    #div3 {
+        margin-left: 555px;
+    }
+    #div4 {
+        margin-right: 330px;
+        float: right;
+    }
+
+    #Portfolio {
+        margin-left: 45px;
+    }
+
+    .activeprtx4pb2 {
+        margin-left: 30px;
+    }
+
+    .activeprtx32 {
+        margin-right: 0px;
+    }
+
+    .activeprtx3pb2 {
+        margin-left: 0px;
+    }
+
+    #form-marg {
+        margin-top: 200px;
+    }
+
+    .a-last {
+        margin-left: 200px;
+        float: left;
+    }
+
+    #cont-a {
+        margin-left: 410px;
+        margin-right: 0px;
+
+    }
+
+    .activeprtxpb {
+        margin-left: 0px;
+    }
+
+
+
+    .picture1 {
+        margin-left: 650px;
+    }
+    .imgbrobl{
+        overflow: hidden;
+        width: 100%
+
+    }
+}

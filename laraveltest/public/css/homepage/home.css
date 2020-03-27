@@ -1,0 +1,612 @@
+body {
+    color: #444444;
+    background-color: white;
+}
+
+#nav{
+    width: 100%;
+}
+a{
+    text-decoration:none;
+    color: #444444;
+}
+
+#About{
+    margin-top: 40px;
+}
+
+.img-about{
+    width:100px;
+    height:95px;
+
+}
+#About a{
+
+    font-size: 19px;
+    font-family: montserrat,sans-serif;
+    text-decoration:none;
+
+    color: #444444;
+
+}
+#About p{
+
+    color: #444444;
+
+}
+#About{
+    overflow: hidden;
+    margin-bottom: 70px;
+}
+div#About1,div#About2,div#About3,div#About4{
+    float: left;
+}
+div#About1{
+    text-align: left;
+}
+
+div#all-Services1,div#all-Services2 p{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1-zagolovok{
+    font-family: montserrat,sans-serif;
+    color: #595C61 ;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+div#all-statistic{
+    background-image: url("img/logotup/2.jpg");
+    width:100%;
+    height:440px;
+    padding: 0;
+    margin: 0;
+    display: block;
+    color: #fff;
+}
+#all-statistic #hr1,#hr2{
+    width:25px;
+    margin-left: 23px;
+    margin-bottom: 15px;
+
+}
+#all-statistic h3{
+    font-size: 45px;
+    margin-bottom: 15px;
+    font-family: Noto Sans, sans-serif;
+
+}
+#all-statistic small{
+    margin-left: 5px;
+
+}
+div#all-statistic{
+    overflow: hidden;
+    max-width: 100%;
+}
+div#stat1,div#stat2,div#stat3,div#stat4{
+    float: left;
+}
+div#stat1{
+    text-align: left;
+
+
+    margin-top: 100px;
+}
+
+div#stat2{
+    text-align: left;
+
+
+    margin-top: 100px;
+}
+
+div#stat3{
+    text-align: left;
+
+
+    margin-top: 100px;
+}
+
+div#stat4{
+    text-align: left;
+
+
+    margin-top: 100px;
+}
+.stat-img{
+    width: 50px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.tel-marg{
+    margin-left: 80px;
+}
+
+#stat-sm3,#stat-sm4{
+    margin-left: 0px;
+}
+#p4{
+    margin-left: 52px;
+}
+#p3{
+    margin-left: 40px;
+}
+
+#h4p{
+    margin-left: 25px;
+}
+#h3p{
+    margin-left: 28px;
+}
+
+
+.small-all{
+    font-size: 15px;
+}
+#hr3{
+    margin-left: 50px ;
+    width: 25px;
+}
+#hr4{
+    margin-left: 60px;
+    width: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+div#team1:hover div#team1-all {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.but-up{
+    color: black;
+    display: none;
+    width: 50px;
+    height: 50px;
+    background: #EA586F;
+    position: fixed;
+    z-index: 100;
+    right: 10px;
+    bottom: 25px;
+    transition: 1s;
+    opacity: 0.8;
+    border-radius: 50%;
+}
+.but-up:after{
+    content:'';
+    width: 10px;
+    height: 10px;
+    border-top: 2px solid ;
+    border-left: 2px solid;
+    transform: rotate(45deg);
+    position: absolute;
+    top:4px;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.but-up.active{
+    display: block;
+}
+
+
+
+#all-features{
+    margin-bottom: 50px;
+}
+
+
+#nav{
+    background-color: #2B2B2B;
+    width: 100%;
+    height: 55px;
+}
+.menuactive{
+    color: #FFAD47;
+}
+.amenactive{
+    color: #FFAD47;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+#prt6{
+    margin-left: 0;
+}
+
+#list
+{
+    overflow: hidden;
+    border-bottom:4px solid;
+    width:192px;
+    list-style-type:none;
+
+    padding:0px;
+    font-size:1.1em;
+}
+#burg{
+    text-align: center;
+    overflow: hidden;
+    float: right;
+}
+
+
+
+
+
+#burger{
+    font-size: 24px;
+    float: right;
+    width: 75px;
+
+
+
+
+}
+#burgertoggle{
+    text-decoration: none;
+    font-size: 18px;
+    float: right;
+    margin-right: 0px;
+    border-bottom: 2px solid #444444;
+    padding: 0;
+    height:0;
+}
+.amen{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+
+}
+#allburg{
+    text-align: center;;
+}
+#mobile-burger2 {
+    display: none;
+
+}
+
+.slideshow{
+
+}
+
+
+
+
+
+
+
+
+#About{
+    margin-left: 0px;
+}
+.img-about{
+    margin: 0;
+}
+#About1{
+    margin: 0;
+}
+#About2{
+    margin: 0;
+}
+#About3{
+    margin: 0;
+}
+#About4{
+    margin: 0;
+}
+.p-about{
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#form-marg{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+body {
+
+}
+
+
+#pric1,#pric3{
+    border: 2px solid black;
+}
+#pric1,#pricing2,#pric3{
+    margin-top: 10px;
+    margin-left: 45px;
+}
+input {
+    height: 20px;
+
+}
+
+i.fa-envelope-o {
+    width: 26px;
+    height: 26px;
+    color: black;
+    line-height: 26px;
+    text-align: center;
+    margin-right: -26px;
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+i.fa-address-book-o {
+    width: 26px;
+    height: 26px;
+    color: black;
+    line-height: 26px;
+    text-align: center;
+    margin-right: -26px;
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+i.fa-hand-o-right {
+    width: 26px;
+    height: 26px;
+    color: black;
+    line-height: 26px;
+    text-align: center;
+    margin-right: -26px;
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+
+i.fa-envelope-o + input {
+    padding-left: 26px;
+
+}
+i.fa-address-book-o+ input {
+    padding-left: 26px;
+
+}
+i.fa-hand-o-right + input {
+    padding-left: 26px;
+
+}
+.fa-envelope-o{
+    margin-top: 5px;
+}
+.fa-address-book-o{
+    margin-top: 5px;
+}
+.fa-hand-o-right{
+    margin-top: 5px;
+}
+#prev1{
+    z-index: 100;
+}
+
+.menu1{
+    position: fixed;
+    top: 0;
+}
+.menu {
+    margin-top: 12px;
+    margin-left: 170px;
+}
+#nav{
+    z-index: 100;
+}
+.menu-btn{
+    display: none;
+}
+#logomenu{
+    margin-left: 25px;
+}
+.menu-btn{
+    display: none;
+}
+#but-menu{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mobile-burger2{
+    display: none;
+}
+#icon1{
+    color: black;
+}
+#icon2{
+    color: black;
+}
+#icon3{
+    color: black;
+}
+#icon4{
+    color: black;
+}
+#icon1:hover{
+    color:#3b5998;
+}
+#icon2:hover{
+    color:#00aced;
+}
+#icon3:hover{
+    color: #EA586F;
+}
+body{
+    padding: 0;
+    margin: 0;
+}

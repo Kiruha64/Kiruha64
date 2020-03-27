@@ -1,0 +1,49 @@
+.contacts-a{
+    font-weight: 100;
+    color: #333333;
+    text-decoration: none;
+}
+div#contacts2 .contacts-a{
+    text-decoration: none;
+}
+#contacts-btn{
+    border: 1px solid #EA586F;
+    color: #EA586F;
+}
+#contacts-btn:hover{
+    border: 1px solid #EA586F;
+    color: white;
+    background-color: #EA586F;
+}
+
+#contacts_facebook{
+    font-size: 21px;
+}
+#contacts_twitter{
+    font-size: 21px;
+}
+#contacts_instagram{
+    font-size: 21px;
+}
+#contacts_linkedin{
+    font-size: 21px;
+}
+
+
+#contacts_facebook:hover{
+    color: #3b5998;
+    cursor: pointer;
+
+}
+#contacts_twitter:hover{
+    color: #00aced;
+    cursor: pointer;
+}
+#contacts_instagram:hover{
+    color: #EA586F;
+    cursor: pointer;
+}
+#contacts_linkedin:hover{
+    color: #00aced;
+    cursor: pointer;
+}

@@ -1,0 +1,63 @@
+.h1-zagolovok {
+    font-family: montserrat, sans-serif;
+    color: #595C61;
+    font-size: 40px;
+    text-align: center;
+}
+.s-img{
+    width:50px;
+    height:50px;
+    float: left;
+}
+
+#all-Services a{
+    color: #444444;
+    font-family: montserrat,sans-serif;
+    font-size:20px;
+    cursor: pointer;
+}
+#all-Services a:hover{
+    color: #EA586F;
+}
+#all-Services p {
+    overflow: hidden;
+    line-height: 24px;
+}
+#all-Services p,#all-Services a{
+    float: left;
+}
+#perevorot {
+    transform: rotate(180deg);
+}
+#s1{
+     overflow: hidden;
+ }
+#sp1,#sp2,#sp3{
+    float: left;
+    margin: 0;
+}
+#sp1{
+
+
+}
+#sp2{
+
+}
+#sp3{
+}
+#s2{
+    ;
+}
+#sp4,#sp5,#sp6{
+    float: left;
+    margin: 0;
+}
+#sp4{
+
+}
+#sp5{
+
+}
+#sp6{
+
+}

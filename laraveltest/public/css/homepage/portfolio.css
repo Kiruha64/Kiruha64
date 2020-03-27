@@ -1,0 +1,77 @@
+#Portfolio{
+    overflow: hidden;
+}
+#Portfolio a{
+    color: white;
+}
+.button{
+    width: 70px;
+    height: 50px;
+    border: 1px solid #EA586F;
+    background: none;
+}
+#prt1{
+    background: url("https://bezpeka.club/wp-content/uploads/2019/06/AI_banner-830x498-c-1.jpg") round ;
+
+    float:left;
+}
+#prt2{
+    background: url("https://dniprograd.org/system/App/Post/images/000/059/965/very_large/21209046_743817289137493_827091802_n[1].png")  round ;
+    float:left;
+}
+#prt3{
+    background: url("https://blog.allo.ua/wp-content/uploads/q4ulfxgvewgbsadhf3us.jpg")  round  ;
+    float:left;
+}
+#prt4{
+    background: url("http://vstup.kpi.kharkov.ua/wp-content/uploads/2018/02/123_3-systemy-shtuchnoho-intelektu-.jpg") round ;
+    float:left;
+}
+#prt5{
+    background: url("https://astwellsoft.com/assets/images/blog/AI.jpg") round ;
+    float:left;
+}
+#prt6{
+    background: url("http://www.morpheos.eu/wp-content/uploads/2018/08/blog-rubrica-ai.png") round ;
+    float:left;
+}
+.img-portfolio{
+    height: 200px;
+}
+.imgs_text{
+    color: white;
+}
+.img-portfolio :hover.display{
+    opacity: 0.75;
+    transition: 1s;
+}
+.display{
+    opacity: 0;
+    background-color: #EA586F;
+    height: 150px;
+    margin-top: 25px;
+}
+.pro{
+    font-size: 25px;
+    border:1px solid white;
+    border-radius: 50%;
+    padding: 2px;
+
+
+}
+.img_content{
+    padding-top: 10px;
+}
+.img_link{
+    color: white;
+}
+.activeimg{
+    display: block;
+}
+.noactiveimg{
+    display: none;
+}
+.button-active{
+    background-color: red;
+    color: white;
+}

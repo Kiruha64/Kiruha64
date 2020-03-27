@@ -1,0 +1,113 @@
+/* футер*/
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer_img{
+    width: 60px;
+    height: 45px;
+}
+.footer_h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+#footer{
+    font-weight: 100;
+}
+#footer_btn{
+    background: none;
+    color: #EA586F;
+    border:1px solid #EA586F;
+}
+.footer_input{
+    border: 1px solid white;
+    padding: 15px;
+    background: none;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+#footer_btn:hover {
+    border: 1px solid #EA586F;
+    background-color: #EA586F;
+    color: white;
+}
+.footer_last_a{
+    color: #999999;
+    text-decoration: none;
+    font-size: 14px;
+}
+.footer_last_a:hover{
+    color: #EA586F;
+
+}
+
+
+
+
+/* кнопки для сайта*/
+
+.share-button{
+    display: inline-block;
+    text-decoration: none;
+    color: #EA586F;
+    text-align: center;
+    padding-top: 8px;
+    height: 42px;
+    width: 32px;
+    border-radius: 2px;
+    margin:	18px 6px;
+    border: 1px solid #EA586F;
+    background: none;
+    color: white;
+}
+#change-color1{
+    color: #EA586F;
+}
+#change-color2{
+    color: #EA586F;
+}
+#change-color3{
+    color: #EA586F;
+}
+#change-color4{
+    color: #EA586F;
+}
+#sotsseti a:hover #change-color1 {
+    color: white;
+}
+#sotsseti a:hover #change-color2 {
+    color: white;
+}
+#sotsseti a:hover #change-color3 {
+    color: white;
+}
+#sotsseti a:hover #change-color4 {
+    color: white;
+}
+.share-via-facebook:hover {
+    background-color:#3b5998;
+    border:1px solid #3b5998;
+    transition: 0.3s;
+    color: white;
+}
+
+.share-via-twitter:hover {
+    background-color:#00aced;
+    border:1px solid #00aced;
+    transition: 0.3s;
+    color: white;
+}
+
+.share-via-linkedin:hover{
+    background-color:#00aced;
+    border:1px solid #00aced;
+    transition: 0.3s;
+    color: white;
+}
+.share-via-google-plus:hover{
+    background-color:#F05020;
+    border:1px solid #F05020;
+    color: white;
+    transition: 0.3s;
+}

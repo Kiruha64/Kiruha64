@@ -1,0 +1,457 @@
+
+.slideshow {
+    width: 100%;
+    position: relative;
+    height: 100%;
+    margin-top: 55px;
+    text-align: center;
+}
+
+.mySlides {
+    display: none;
+}
+#3slide{
+    overflow: hidden;
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    display: block;
+    width: auto;
+    margin-top: -35px;
+    padding: 16px;
+    color: white;
+    border: 1px solid white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+    display: block;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+}
+
+
+
+
+.fad {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+
+@keyframes fad {
+    from {opacity: 0.1}
+    to {opacity: 1}
+}
+
+
+#slide1h1{
+    position: absolute;
+    top: 2%;
+    padding-top: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+
+}
+
+.sliderp{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+
+}
+
+#slide1but1,#slide1but2{
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    transition: 0.6s ease;
+
+}
+#slide1but1{
+    width: 182px;
+    height: 57px;
+    border: 3px solid #EA586F;
+    background: none;
+    color: #EA586F;
+    font-size: 15px;
+    cursor: pointer;
+}
+#slide1but1:hover{
+    color: white;
+    background: #EA586F;
+}
+#slide1but2{
+    width: 182px;
+    height: 57px;
+    border: 3px solid  green;
+    background: none;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+}
+#slide1but2:hover{
+    color:blue;
+    border: 3px solid #1D1D1D;
+}
+
+
+
+
+
+
+
+
+#slide2h1{
+    position: absolute;
+    top: 10%;
+    padding-top: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+
+}
+#slide2rpchange{
+    margin-top: 55px;
+}
+
+#slide2but1{
+    cursor: pointer;
+    margin: 0;
+    width: auto;
+    padding: 4px;
+    color: white;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+#slide2but1{
+    width: 182px;
+    height: 57px;
+    border: 3px solid #EA586F;
+    background: none;
+    color: #EA586F;
+    font-size: 15px;
+
+    cursor: pointer;
+}
+#slide2but1:hover{
+    color: white;
+    background: #EA586F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#slide3h1 {
+    position: absolute;
+    top: 2%;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+
+}
+
+.sliderp{
+    color:white;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+
+}
+
+#slide3but1,#slide3but2{
+    cursor: pointer;
+    width: auto;
+    padding: 4px;
+    color: black;
+    font-size: 18px;
+    transition: 0.6s ease;
+
+}
+#slide3but1{
+    margin-left: 35.5%;
+    float: left;
+    width: 182px;
+    height: 57px;
+    border: 3px solid black;
+    background:  #EA586F;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+#slide3but2:hover{
+    color: white;
+    background: #EA586F;
+}
+#slide3but2{
+    margin-right: 36%;
+    float: right;
+    width: 182px;
+    height: 57px;
+    border: 3px solid  #EA586F;
+    background: black;
+    color: #EA586F;
+    font-size: 15px;
+    cursor: pointer;
+}
+#slide3but1:hover{
+    background:rgba(255,255,255,0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nav{
+    position: fixed;
+    width: 100%;
+    margin:0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    top:0;
+    height: 55px;
+    background: none;
+    display: block;
+    z-index: 100;
+}
+.menu img{
+    float: left;
+    z-index: 100;
+}
+a{
+    text-decoration: none;
+}
+
+
+.menu .amen{
+    margin-top: 9px;
+    margin-left: 33px;
+    color: white;
+    z-index: 100; float: left;+
+}
+#menua{
+    margin-left: 480px;
+    z-index: 100;
+
+}
+.menuactive{
+    position: fixed;
+    width: 100%;
+    top:0;
+    height: 60px;
+    display: block;
+    z-index: 100;
+}
+.menu .amenactive{
+    margin-top: 9px;
+    margin-left: 33px;
+    color: #FFAD47;
+    z-index: 100;
+}
+.amenactive2{
+    color: #FF5141;
+}
+
+
+
+
+.but-up{
+    background-color: #EA586F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#top{
+    text-align: center;
+}
+#1slide{
+    text-align: center;
+}
+#2slide{
+    text-align: center;
+}
+#3slide{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#logomenu{
+    display: block;
+    width: 130px;
+    height: 33px;
+    margin-top: 10px;
+    z-index: 100;
+}
+#menu-po1 {
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+
+}
+
+#1slide img{
+    width: 100%;
+
+}
+#slider_img1{
+    width: 100%;
+}
+#slider_img2{
+    width: 100%;
+}
+#slider_img3{
+    width: 100%;
+}
+#bb{
+    text-align: center;
+}
+.menu-btn{
+    display: none;
+}
+#but-menu{
+    display: none;
+}
+#mobile-burger2{
+    display: none;
+}
